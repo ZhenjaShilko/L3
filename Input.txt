@@ -1,0 +1,7 @@
+6
+http://www.zcontest.ru
+http://zcontest.ru
+http://zcontest.com
+https://zcontest.ru
+https://sub.zcontest-ru.com:8080
+http://zcontest.ru/dir%201/dir_2/program.ext?var1=x&var2=my%20value
